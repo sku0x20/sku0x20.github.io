@@ -1,12 +1,19 @@
 
 title: Blog
+
 author:
   name: Siddhant Kumar Upmanyu
   email: "siddhantkumarupmanyu@gmail.com"
+
 description: 
   Blog about things I do and learn.
   Writing stuff to remove my mental burden 
   of keeping things in mind.
+
+header_pages:
+  - scratchpad.md
+  - about.markdown
+
 minima:
   social_links:
     twitter: siddhantkumarupmanyu

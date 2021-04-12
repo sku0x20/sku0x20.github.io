@@ -49,4 +49,4 @@ Used these in my project:
 * Jest
 * Puppeteer
 
-so know a bit about them.
+so knows a bit about them.
