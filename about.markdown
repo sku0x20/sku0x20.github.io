@@ -18,10 +18,10 @@ Currently Reading:
 * "Growing Object-Oriented, Guided by Test" *by Steve Freeman And Nat Pryce*
 
 ### Network
-I also have interest in Networking and currently reading "Computer Networking" *by Kurose And Rose*
+I also have interest in Networking. Currently reading "Computer Networking" *by Kurose And Rose*
 
 ### Misc
-I have created some apps so I know a bit of *Android Framework* too.
+I have created some apps so I know a bit of *Android Framework*.
 
 Android Libraries I used in some of my projects:
 * Dagger
