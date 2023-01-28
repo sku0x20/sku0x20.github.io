@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Old
+permalink: /about_old/
 ---
 
 > I am learning or doing many things concurrently with focus on single thing.
