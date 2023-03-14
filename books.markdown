@@ -18,7 +18,7 @@ permalink: /books-and-tools/
 ## backlog
 * "Computer Networking" *by Kurose And Rose*
 * "Linux in Action" by *David Clinton*
-* "Working with Legacy Code" by *michael feathers*
+* "Working with Legacy Code" by *Michael Feathers*
 
 ## to read (most of the books on https://martinfowler.com/books/)
 * "p of eaa"
