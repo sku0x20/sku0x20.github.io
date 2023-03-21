@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "lsp and ocp"
-date: 2023-03-20
+date: 2023-03-21
 categories: patterns
 upload-date: 2023-03-21
 ---
