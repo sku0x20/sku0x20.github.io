@@ -4,6 +4,7 @@ title:  "test method name"
 date: 2022-06-06
 categories: test
 upload-date: 2023-01-29
+update-date: 2023-05-16
 ---
 
 should test names be starting with 'should'???
@@ -47,3 +48,19 @@ so it kinda depends.
 don't constrain yourself too much but also don't give yourself free hand too much, follow conventions but don't get bounded by them...
 and as always it' GOOD ENOUGH(for now)...
 
+
+eg.
+notifiesXYZ
+notifiesXYZOnABC
+doesNotNotifyXYZOnAB
+canIncreaseCount
+sendsPacket
+throwsExceptionOnABC
+throwsInvalidExceptionOnX
+notifiesIfABC
+incrementsCount
+getsData
+fetchesData
+
+there are multiple ways to write test method name. do not hesitate to add or remove words,
+esp like 'can', 'does', etc.
