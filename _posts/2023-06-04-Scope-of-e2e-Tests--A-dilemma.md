@@ -6,7 +6,7 @@ categories: test
 upload-date: 2023-06-04
 ---
 
-(first published at available at <https://medium.com/@duckydude20/scope-of-e2e-tests-a-dilemma-2b6246338add>)
+(also available at <https://medium.com/@duckydude20/scope-of-e2e-tests-a-dilemma-2b6246338add>)
 
 ### Should be Broad
 
